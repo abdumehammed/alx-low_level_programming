@@ -1,0 +1,1 @@
+ointer is a variable
